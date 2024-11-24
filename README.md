@@ -1,38 +1,40 @@
-# Hajee Mohammad Danesh Science and Technology University  
-Dinajpur-5200  
+<p align="center">
+  <img src="hstu_logo_.png" alt="hstu_logo_.png" width="250" height="300">
+</p>
+<h1 align="center">
+  <b>Business Analysis System</b>
+</h1>
+<h3 align="center">
+  <br>
+  <b>Level-3 Semester-I Project Report</b>  
+</h3>
+<h3 align="center">
+  Course Code: CSE 305 
+</h3>
 
-**Course Code**: CSE 305  
-**Course Title**: Software Engineering  
+<h3 align="center">
+  Course Title: Software Engineering
+</h3>
+<br>
+<h3 align="center">
+  Submitted by 
+</h3>
+<h3 align="center">
+<b>Md. Sabbir Ahamed Shovon (ID: 2102034) </b> </h3>
+<br>
 
----
+<h3 align="center">
+  Submitted To 
+</h3>
 
-## Project Title  
-**Business Analysis System**  
+<h3 align="center"><b>Pankaj Bhowmik  </b></h3>
+<h3 align="center"><b>Lecturer, Department of CSE</b></h3>
+<br>
+<h3 align="center"> <b>Department of Computer Science and Engineering </b></h3>
+<h3 align="center"><b>Hajee Mohammad Danesh Science and Technology University  
+Dinajpur-5200</b></h3>
 
----
-
-### Submitted By:  
-**Name**: Md. Sabbir Ahamed Shovon  
-**Student ID**: 2102034  
-**Session**: 2021  
-**Level**: 03  
-**Semester**: I  
-**Department**: Computer Science and Engineering  
-
----
-
-### Submitted To:  
-**Name**: Pankaj Bhowmik  
-**Designation**: Lecturer  
-**Department**: Computer Science and Engineering  
-**Institution**: Hajee Mohammad Danesh Science and Technology University  
-
----
-
-### Date of Submission:  
-**November 24, 2024**  
-
----
+  ---
 
 ## Table of Contents  
 1. [Introduction](#1-introduction)  
