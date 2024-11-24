@@ -115,6 +115,7 @@ The **Business Analysis System** is a software application designed to help busi
 **Outcome**:  
 - Detailed architectural design and defined system components.  
 
+![project_uml](https://github.com/user-attachments/assets/c3db1985-39b5-4e23-a104-b65d273e34e1)
 ---
 
 ### 2.4 Implementation Phase  
